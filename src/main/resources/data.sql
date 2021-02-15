@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Darlan Caldas', 8000.00, '12345678901', parsedatetime('31-07-1993', 'dd-MM-yyyy'), 1);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Jéssica Caldas', 10000.00, '32156789012', parsedatetime('24-02-1998', 'dd-MM-yyyy'), 1);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Carlos Souza', 7000.00, '32156789012', parsedatetime('15-08-1991', 'dd-MM-yyyy'), 3);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Lucas Silva', 15000.00, '00056789012', parsedatetime('15-02-1989', 'dd-MM-yyyy'), 5);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Ana Júlia', 30000.00, '30056789012', parsedatetime('15-03-1984', 'dd-MM-yyyy'), 2);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Marcio Nunes', 27000.00, '30056789022', parsedatetime('15-04-1980', 'dd-MM-yyyy'), 0);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Arnaldo Santos', 3000.00, '30058949022', parsedatetime('11-12-1992', 'dd-MM-yyyy'), 0);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Fernanda Pereira', 5000.00, '30058949022', parsedatetime('29-01-1990', 'dd-MM-yyyy'), 2);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Daniel Soares', 12000.00, '30058949022', parsedatetime('29-01-1985', 'dd-MM-yyyy'), 4);
+INSERT INTO tb_client (name, income, cpf, birth_date, children) VALUES ('Douglas Fernandes', 10000.00, '30058949012', parsedatetime('29-01-1989', 'dd-MM-yyyy'), 6);
